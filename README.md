@@ -19,7 +19,7 @@ Install the packages it contains like any other [Homebrew][brew] package:
 
 ## Why not create a PR to [Unofficial][homebrew-unofficial]?
 
-I don't trust other people THAT much.
+[I did][homebrew-unofficial-pr], but I don't trust other people THAT much to use that formulae.
 
 
 ## License
@@ -30,4 +30,5 @@ Code is under the [Unlicense][license].
 [homebrew-cask-drivers]:https://github.com/Homebrew/homebrew-cask-drivers
 [homebrew-cask-drivers-pr]:https://github.com/Homebrew/homebrew-cask-drivers/pull/1615
 [homebrew-unofficial]:https://github.com/alehouse/homebrew-unofficial
+[homebrew-unofficial-pr]:https://github.com/alehouse/homebrew-unofficial/pull/41
 [license]:https://raw.github.com/reznikov/homebrew-cardo-unofficial/master/LICENSE
