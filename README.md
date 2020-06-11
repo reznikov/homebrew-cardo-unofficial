@@ -30,4 +30,4 @@ Code is under the [Unlicense][license].
 [homebrew-cask-drivers]:https://github.com/Homebrew/homebrew-cask-drivers
 [homebrew-cask-drivers-pr]:https://github.com/Homebrew/homebrew-cask-drivers/pull/1615
 [homebrew-unofficial]:https://github.com/alehouse/homebrew-unofficial
-[license]:https://raw.github.com/reznikov/homebrew-cardo/master/LICENSE
+[license]:https://raw.github.com/reznikov/homebrew-cardo-unofficial/master/LICENSE
