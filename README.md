@@ -10,7 +10,7 @@ Tap this repository:
 
 Install the packages it contains like any other [Homebrew][brew] package:
 
-    brew install cardo-update
+    brew cask install cardo-update
 
 ## Why not create a PR to [Cask for Drivers][homebrew-cask-drivers]?
 
