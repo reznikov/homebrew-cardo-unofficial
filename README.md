@@ -1,6 +1,6 @@
 # homebrew-cardo-unofficial
 
-A [Homebrew][brew] tap for my projects.
+A [Homebrew][brew] cask for the [Cardo Firmware update][cardo-update] app.
 
 ## Usage
 
@@ -24,6 +24,7 @@ Install the package like any other [Homebrew][brew] package:
 
 Code is under the [Unlicense][license].
 
+[cardo-update]:https://www.cardosystems.com/update/
 [brew]:http://brew.sh
 [homebrew-cask-drivers]:https://github.com/Homebrew/homebrew-cask-drivers
 [homebrew-cask-drivers-pr]:https://github.com/Homebrew/homebrew-cask-drivers/pull/1615
