@@ -4,13 +4,11 @@ A [Homebrew][brew] tap for my projects.
 
 ## Usage
 
-Tap this repository:
+Install the package like any other [Homebrew][brew] package:
 
-    brew tap reznikov/cardo-unofficial
+    brew cask install reznikov/cardo-unofficial/cardo-update
 
-Install the packages it contains like any other [Homebrew][brew] package:
-
-    brew cask install cardo-update
+> **NOTE:** This will add `reznikov/cardo-unofficial` to list of taps.
 
 ## Why not create a PR to [Cask for Drivers][homebrew-cask-drivers]?
 
